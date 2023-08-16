@@ -1,9 +1,7 @@
-# Project 2 Starter Code
+# This repository contains my end-to-end encrypted file sharing system
 
-This repository contains the starter code for Project 2!
+For comprehensive documentation, see the spec (https://sp23.cs161.org/proj2/).
 
-For comprehensive documentation, see the Project 2 Spec (https://cs161.org/proj2/getting-started-coding/).
+My implementation is in `client/client.go`, and my tests are in `client_test/client_test.go`.
 
-Write your implementation in `client/client.go`, and your tests in `client_test/client_test.go`.
-
-To test your implementation, run `go test -v` inside of the `client_test` directory.
+To test my implementation, run `go test -v` inside of the `client_test` directory.
